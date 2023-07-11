@@ -7,5 +7,5 @@ hello GIT
 hello GIT
 hello GIT
 hello GIT
-hello GIT
+hello GIT hot-fix test
 hello GIT
